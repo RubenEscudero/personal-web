@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Components.Web;
 using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
-using personal_web;
+using PersonalWeb;
 using Radzen;
 
 var builder = WebAssemblyHostBuilder.CreateDefault(args);

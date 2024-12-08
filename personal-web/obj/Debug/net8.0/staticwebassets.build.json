@@ -1,15 +1,15 @@
 {
   "Version": 1,
-  "Hash": "W7Wy2gM+52+VNGL4mX+vJtB+KOUyrz+P7wdv6KEQ48M=",
-  "Source": "personal-web",
+  "Hash": "LaKoorR8D6aGiz1hnLqLtDo0OkKKMGVX1Xc1JqM9oJ8=",
+  "Source": "PersonalWeb",
   "BasePath": "/",
   "Mode": "Root",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
-      "Name": "personal-web\\wwwroot",
-      "Source": "personal-web",
+      "Name": "PersonalWeb\\wwwroot",
+      "Source": "PersonalWeb",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\wwwroot\\",
       "BasePath": "/",
       "Pattern": "**"
@@ -683,7 +683,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.boot.json",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -702,7 +702,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -721,7 +721,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -740,7 +740,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -759,7 +759,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.5.7heap5xmp6.js",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -778,7 +778,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -797,7 +797,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.5.3t5nbjpag8.js",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -816,7 +816,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -835,7 +835,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -854,7 +854,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -873,7 +873,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -892,7 +892,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -911,7 +911,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -930,7 +930,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -949,7 +949,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -968,7 +968,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.WebAssembly.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -987,7 +987,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -1006,7 +1006,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.CSharp.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -1025,7 +1025,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.Abstractions.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -1044,7 +1044,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.Binder.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -1063,7 +1063,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.FileExtensions.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -1082,7 +1082,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.Json.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -1101,7 +1101,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -1120,7 +1120,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.DependencyInjection.Abstractions.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -1139,7 +1139,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.DependencyInjection.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -1158,7 +1158,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.FileProviders.Abstractions.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -1177,7 +1177,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.FileProviders.Physical.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -1196,7 +1196,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.FileSystemGlobbing.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -1215,7 +1215,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.Abstractions.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -1234,7 +1234,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -1253,7 +1253,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.Options.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -1272,7 +1272,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.Primitives.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -1291,7 +1291,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.JSInterop.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -1310,7 +1310,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.JSInterop.WebAssembly.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -1329,7 +1329,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.VisualBasic.Core.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -1348,7 +1348,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.VisualBasic.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -1367,7 +1367,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Win32.Primitives.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -1386,7 +1386,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Win32.Registry.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -1405,7 +1405,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\mscorlib.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -1424,7 +1424,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\netstandard.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -1442,12 +1442,12 @@
       "OriginalItemSpec": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\webcil\\netstandard.wasm"
     },
     {
-      "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\personal-web.pdb",
-      "SourceId": "personal-web",
+      "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\PersonalWeb.pdb",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/personal-web.pdb",
+      "RelativePath": "_framework/PersonalWeb.pdb",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1458,15 +1458,15 @@
       "AssetTraitValue": "symbol",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "obj\\Debug\\net8.0\\personal-web.pdb"
+      "OriginalItemSpec": "obj\\Debug\\net8.0\\PersonalWeb.pdb"
     },
     {
-      "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\personal-web.wasm",
-      "SourceId": "personal-web",
+      "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\PersonalWeb.wasm",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/personal-web.wasm",
+      "RelativePath": "_framework/PersonalWeb.wasm",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1477,11 +1477,11 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\webcil\\personal-web.wasm"
+      "OriginalItemSpec": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\webcil\\PersonalWeb.wasm"
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Radzen.Blazor.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -1500,7 +1500,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.AppContext.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -1519,7 +1519,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Buffers.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -1538,7 +1538,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Collections.Concurrent.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -1557,7 +1557,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Collections.Immutable.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -1576,7 +1576,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Collections.NonGeneric.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -1595,7 +1595,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Collections.Specialized.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -1614,7 +1614,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Collections.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -1633,7 +1633,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.ComponentModel.Annotations.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -1652,7 +1652,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.ComponentModel.DataAnnotations.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -1671,7 +1671,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.ComponentModel.EventBasedAsync.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -1690,7 +1690,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.ComponentModel.Primitives.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -1709,7 +1709,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.ComponentModel.TypeConverter.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -1728,7 +1728,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.ComponentModel.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -1747,7 +1747,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Configuration.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -1766,7 +1766,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Console.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -1785,7 +1785,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Core.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -1804,7 +1804,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Data.Common.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -1823,7 +1823,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Data.DataSetExtensions.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -1842,7 +1842,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Data.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -1861,7 +1861,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Diagnostics.Contracts.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -1880,7 +1880,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Diagnostics.Debug.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -1899,7 +1899,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Diagnostics.DiagnosticSource.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -1918,7 +1918,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Diagnostics.FileVersionInfo.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -1937,7 +1937,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Diagnostics.Process.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -1956,7 +1956,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Diagnostics.StackTrace.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -1975,7 +1975,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Diagnostics.TextWriterTraceListener.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -1994,7 +1994,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Diagnostics.Tools.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -2013,7 +2013,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Diagnostics.TraceSource.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -2032,7 +2032,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Diagnostics.Tracing.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -2051,7 +2051,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Drawing.Primitives.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -2070,7 +2070,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Drawing.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -2089,7 +2089,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Dynamic.Runtime.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -2108,7 +2108,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Formats.Asn1.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -2127,7 +2127,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Formats.Tar.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -2146,7 +2146,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Globalization.Calendars.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -2165,7 +2165,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Globalization.Extensions.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -2184,7 +2184,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Globalization.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -2203,7 +2203,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.IO.Compression.Brotli.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -2222,7 +2222,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.IO.Compression.FileSystem.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -2241,7 +2241,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.IO.Compression.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -2260,7 +2260,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.IO.Compression.ZipFile.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -2279,7 +2279,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.IO.FileSystem.AccessControl.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -2298,7 +2298,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.IO.FileSystem.DriveInfo.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -2317,7 +2317,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.IO.FileSystem.Primitives.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -2336,7 +2336,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.IO.FileSystem.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -2355,7 +2355,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.IO.FileSystem.Watcher.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -2374,7 +2374,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.IO.IsolatedStorage.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -2393,7 +2393,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.IO.MemoryMappedFiles.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -2412,7 +2412,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.IO.Pipelines.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -2431,7 +2431,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.IO.Pipes.AccessControl.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -2450,7 +2450,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.IO.Pipes.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -2469,7 +2469,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.IO.UnmanagedMemoryStream.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -2488,7 +2488,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.IO.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -2507,7 +2507,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Linq.Dynamic.Core.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -2526,7 +2526,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Linq.Expressions.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -2545,7 +2545,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Linq.Parallel.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -2564,7 +2564,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Linq.Queryable.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -2583,7 +2583,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Linq.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -2602,7 +2602,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Memory.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -2621,7 +2621,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Net.Http.Json.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -2640,7 +2640,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Net.Http.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -2659,7 +2659,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Net.HttpListener.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -2678,7 +2678,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Net.Mail.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -2697,7 +2697,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Net.NameResolution.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -2716,7 +2716,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Net.NetworkInformation.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -2735,7 +2735,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Net.Ping.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -2754,7 +2754,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Net.Primitives.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -2773,7 +2773,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Net.Quic.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -2792,7 +2792,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Net.Requests.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -2811,7 +2811,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Net.Security.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -2830,7 +2830,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Net.ServicePoint.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -2849,7 +2849,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Net.Sockets.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -2868,7 +2868,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Net.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -2887,7 +2887,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Net.WebClient.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -2906,7 +2906,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Net.WebHeaderCollection.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -2925,7 +2925,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Net.WebProxy.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -2944,7 +2944,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Net.WebSockets.Client.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -2963,7 +2963,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Net.WebSockets.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -2982,7 +2982,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Numerics.Vectors.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -3001,7 +3001,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Numerics.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -3020,7 +3020,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.ObjectModel.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -3039,7 +3039,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Private.CoreLib.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -3058,7 +3058,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Private.DataContractSerialization.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -3077,7 +3077,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Private.Uri.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -3096,7 +3096,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Private.Xml.Linq.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -3115,7 +3115,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Private.Xml.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -3134,7 +3134,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Reflection.DispatchProxy.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -3153,7 +3153,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Reflection.Emit.ILGeneration.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -3172,7 +3172,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Reflection.Emit.Lightweight.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -3191,7 +3191,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Reflection.Emit.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -3210,7 +3210,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Reflection.Extensions.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -3229,7 +3229,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Reflection.Metadata.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -3248,7 +3248,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Reflection.Primitives.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -3267,7 +3267,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Reflection.TypeExtensions.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -3286,7 +3286,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Reflection.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -3305,7 +3305,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Resources.Reader.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -3324,7 +3324,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Resources.ResourceManager.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -3343,7 +3343,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Resources.Writer.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -3362,7 +3362,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Runtime.CompilerServices.Unsafe.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -3381,7 +3381,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Runtime.CompilerServices.VisualC.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -3400,7 +3400,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Runtime.Extensions.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -3419,7 +3419,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Runtime.Handles.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -3438,7 +3438,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Runtime.InteropServices.JavaScript.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -3457,7 +3457,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Runtime.InteropServices.RuntimeInformation.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -3476,7 +3476,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Runtime.InteropServices.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -3495,7 +3495,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Runtime.Intrinsics.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -3514,7 +3514,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Runtime.Loader.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -3533,7 +3533,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Runtime.Numerics.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -3552,7 +3552,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Runtime.Serialization.Formatters.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -3571,7 +3571,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Runtime.Serialization.Json.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -3590,7 +3590,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Runtime.Serialization.Primitives.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -3609,7 +3609,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Runtime.Serialization.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -3628,7 +3628,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Runtime.Serialization.Xml.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -3647,7 +3647,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Runtime.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -3666,7 +3666,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Security.AccessControl.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -3685,7 +3685,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Security.Claims.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -3704,7 +3704,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Security.Cryptography.Algorithms.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -3723,7 +3723,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Security.Cryptography.Cng.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -3742,7 +3742,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Security.Cryptography.Csp.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -3761,7 +3761,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Security.Cryptography.Encoding.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -3780,7 +3780,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Security.Cryptography.OpenSsl.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -3799,7 +3799,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Security.Cryptography.Primitives.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -3818,7 +3818,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Security.Cryptography.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -3837,7 +3837,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Security.Cryptography.X509Certificates.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -3856,7 +3856,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Security.Principal.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -3875,7 +3875,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Security.Principal.Windows.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -3894,7 +3894,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Security.SecureString.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -3913,7 +3913,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Security.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -3932,7 +3932,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.ServiceModel.Web.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -3951,7 +3951,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.ServiceProcess.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -3970,7 +3970,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Text.Encoding.CodePages.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -3989,7 +3989,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Text.Encoding.Extensions.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -4008,7 +4008,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Text.Encoding.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -4027,7 +4027,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Text.Encodings.Web.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -4046,7 +4046,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Text.Json.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -4065,7 +4065,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Text.RegularExpressions.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -4084,7 +4084,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Threading.Channels.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -4103,7 +4103,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Threading.Overlapped.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -4122,7 +4122,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Threading.Tasks.Dataflow.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -4141,7 +4141,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Threading.Tasks.Extensions.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -4160,7 +4160,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Threading.Tasks.Parallel.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -4179,7 +4179,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Threading.Tasks.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -4198,7 +4198,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Threading.Thread.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -4217,7 +4217,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Threading.ThreadPool.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -4236,7 +4236,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Threading.Timer.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -4255,7 +4255,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Threading.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -4274,7 +4274,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Transactions.Local.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -4293,7 +4293,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Transactions.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -4312,7 +4312,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.ValueTuple.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -4331,7 +4331,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -4350,7 +4350,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Web.HttpUtility.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -4369,7 +4369,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Web.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -4388,7 +4388,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Windows.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -4407,7 +4407,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Xml.Linq.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -4426,7 +4426,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Xml.ReaderWriter.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -4445,7 +4445,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Xml.Serialization.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -4464,7 +4464,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Xml.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -4483,7 +4483,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Xml.XDocument.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -4502,7 +4502,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Xml.XmlDocument.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -4521,7 +4521,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Xml.XmlSerializer.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -4540,7 +4540,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Xml.XPath.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -4559,7 +4559,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Xml.XPath.XDocument.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -4578,7 +4578,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\WindowsBase.wasm",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -4597,7 +4597,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\05waqtjdp2.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -4616,7 +4616,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\0ed6hb88iy.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -4635,7 +4635,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\14eh3m210q.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -4654,7 +4654,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\19jscf0lxz.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -4673,7 +4673,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\1db4z3uz4b.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -4692,7 +4692,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\1djnw7rp3r.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -4711,7 +4711,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\1ioobylzt8.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -4730,7 +4730,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\1llbyur0a8.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -4749,7 +4749,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\25h5snmlgy.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -4768,7 +4768,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\2g1wf0asm2.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -4787,7 +4787,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\2ou50io7yz.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -4806,7 +4806,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\2tb69jglkv.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -4825,7 +4825,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\3cd7qn0kg2.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -4844,7 +4844,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\3fo9do72e7.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -4863,7 +4863,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\3nsp11770u.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -4882,7 +4882,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\3t5nbjpag8.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -4901,7 +4901,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\3vxq82gpb5.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -4920,7 +4920,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\3ynh038mzz.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -4939,7 +4939,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\41jfzaog26.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -4958,7 +4958,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\4cy51h0tfe.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -4976,27 +4976,8 @@
       "OriginalItemSpec": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Security.Cryptography.Algorithms.wasm"
     },
     {
-      "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\4gbto00vor.gz",
-      "SourceId": "personal-web",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/personal-web.pdb.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\personal-web.pdb",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\personal-web.pdb"
-    },
-    {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\4l5y4bl70f.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -5015,7 +4996,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\4mdhynwtu0.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -5034,7 +5015,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\4ol6gm84qi.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -5053,7 +5034,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\4pibim5zc4.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -5072,7 +5053,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\4tiek83jd6.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -5091,7 +5072,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\4yzwad0b1z.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -5110,7 +5091,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\51yosn5qcr.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -5129,7 +5110,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\55lonnb469.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -5148,7 +5129,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\5i4558gju6.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -5167,7 +5148,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\5iu0r0dabf.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -5186,7 +5167,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\5mdvo99vwe.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -5205,7 +5186,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\6y34h68qze.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -5224,7 +5205,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\6zismsrxug.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -5243,7 +5224,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\7a26ohwxww.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -5262,7 +5243,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\7dbo90dc42.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -5281,7 +5262,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\7heap5xmp6.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -5300,7 +5281,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\7jjaahfukc.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -5319,7 +5300,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\7sp77oxdb1.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -5338,7 +5319,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\7whcy0al4s.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -5357,7 +5338,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\7y78u0jemt.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -5376,7 +5357,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\7zpk4bmzwb.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -5395,7 +5376,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\82f05izoxj.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -5414,7 +5395,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\8b93kq6rxp.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -5433,7 +5414,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\8n9nxfz4c7.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -5452,7 +5433,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\8nspe1mrhw.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -5470,8 +5451,27 @@
       "OriginalItemSpec": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Text.Encoding.wasm"
     },
     {
+      "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\9jpmaxoc0c.gz",
+      "SourceId": "PersonalWeb",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/PersonalWeb.wasm.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\PersonalWeb.wasm",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\PersonalWeb.wasm"
+    },
+    {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\9xtv9az1eg.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -5490,7 +5490,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\a5y3bo8hwd.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -5509,7 +5509,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\a6j5swjeo2.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -5528,7 +5528,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\aa5jlxvjsq.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -5547,7 +5547,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\adh2gxdozi.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -5566,7 +5566,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\ajmiqm0wrc.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -5585,7 +5585,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\aof555x8xg.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -5604,7 +5604,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\aog0pj1a7s.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -5623,7 +5623,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\asxkxubscq.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -5642,7 +5642,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\au36rtzw9p.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -5661,7 +5661,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\ax5jeonar8.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -5680,7 +5680,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\bf9l45v4f0.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -5699,7 +5699,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\bjhsm3417g.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -5718,7 +5718,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\bogpsjitm9.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -5737,7 +5737,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\bqiav7zyn5.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -5756,7 +5756,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\bu1imhz00r.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -5775,7 +5775,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\bw8x8y40ag.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -5794,7 +5794,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\bzoyyz32aj.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -5813,7 +5813,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\c23q3xg2dy.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -5832,7 +5832,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\c4ff1hw70b.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -5851,7 +5851,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\c5osf2r4gl.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -5870,7 +5870,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\cca3vdswxe.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -5889,7 +5889,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\cfiptu2ria.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -5908,7 +5908,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\cgo0cg34ik.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -5927,7 +5927,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\cqe0kousvu.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -5946,7 +5946,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\cru0o4ae6g.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -5965,7 +5965,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\cx1oxvn2o6.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -5984,7 +5984,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\d57x9tanns.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -6003,7 +6003,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\dpc5e3yx8u.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -6022,7 +6022,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\dpcqo6eiuu.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -6041,7 +6041,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\dtl3n8jaqe.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -6060,7 +6060,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\ec1tdea22e.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -6079,7 +6079,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\es4yj08som.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -6098,7 +6098,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\exmmllzqlu.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -6117,7 +6117,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\f0o0fx2u8l.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -6136,7 +6136,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\fjayekdl3j.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -6155,7 +6155,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\fr88ij4pb7.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -6174,7 +6174,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\ftbk9k7fqf.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -6193,7 +6193,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\fveyapdap7.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -6212,7 +6212,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\g9kqtdvbie.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -6231,7 +6231,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\gby9udrhbp.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -6250,7 +6250,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\gkanrlwqv9.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -6269,7 +6269,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\grm7quyzot.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -6288,7 +6288,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\gvjswqw0we.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -6307,7 +6307,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\gz6fp8lm0u.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -6326,7 +6326,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\h7lnzrfjnx.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -6345,7 +6345,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\h8yk3x42ow.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -6364,7 +6364,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\hvnu0shfi3.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -6383,7 +6383,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\hw0x1gj2zz.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -6402,7 +6402,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\i003xmwqas.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -6421,7 +6421,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\i5b0i89ao5.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -6440,7 +6440,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\i5uz7e8pha.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -6459,7 +6459,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\iah5e5gqf7.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -6478,7 +6478,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\iay3ipp4ao.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -6497,7 +6497,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\ie64uy21kp.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -6516,7 +6516,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\iia9ykmgmc.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -6535,7 +6535,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\ijp77dcr38.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -6554,7 +6554,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\imfm4zpgfm.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -6573,7 +6573,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\iver16l1y3.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -6592,7 +6592,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\j98302lshd.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -6611,7 +6611,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\j9jibqggwo.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -6630,7 +6630,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\ja3vx8os2i.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -6649,7 +6649,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\jbx0hz4jmh.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -6668,7 +6668,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\jfpueuezhr.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -6687,7 +6687,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\jfvhph87a2.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -6706,7 +6706,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\jhta9imbg9.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -6725,7 +6725,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\jkmj6uggl5.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -6744,7 +6744,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\jole6u867p.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -6763,7 +6763,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\jszkiv8u0s.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -6782,7 +6782,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\jtwk8gm0i3.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -6801,7 +6801,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\k3tnmeal9f.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -6820,7 +6820,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\k8mvucem11.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -6839,7 +6839,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\kbtfntm48q.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -6858,7 +6858,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\kht4ysti5k.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -6877,7 +6877,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\kl9mo56mem.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -6896,7 +6896,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\knkp882ahl.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -6915,7 +6915,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\koo5pam2ii.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -6934,7 +6934,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\kuf4mp14eb.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -6953,7 +6953,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\l10of79fri.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -6972,7 +6972,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\l48rv9xma8.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -6991,7 +6991,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\l7j7hhd6jy.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -7010,7 +7010,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\l89h5vwd9g.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -7029,7 +7029,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\lfca4zjrvk.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -7048,7 +7048,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\lgu10ayiym.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -7067,7 +7067,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\lhsq30j9gs.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -7086,7 +7086,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\lqvzvxg5e0.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -7105,7 +7105,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\m2a29pct0y.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -7124,7 +7124,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\mpm6gsv22u.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -7143,7 +7143,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\ms8iwep39q.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -7162,7 +7162,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\n13qtzoq8x.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -7181,7 +7181,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\n41ganh3yc.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -7200,7 +7200,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\njoyr6kre8.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -7219,7 +7219,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\nnsmt4hu5v.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -7238,7 +7238,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\ns5d7amrm4.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -7257,7 +7257,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\o1w9mv5tbg.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -7276,7 +7276,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\o55ymlf7i5.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -7295,7 +7295,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\o76kcnva96.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -7314,7 +7314,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\of4jvybrgh.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -7333,7 +7333,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\ofe502qxav.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -7352,7 +7352,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\ogw9fw0u94.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -7371,7 +7371,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\omt5rcx3ex.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -7390,7 +7390,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\onxwqdvqbo.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -7409,7 +7409,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\orulug23nc.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -7428,7 +7428,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\osfkd26ska.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -7447,7 +7447,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\oug3jscc3e.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -7466,7 +7466,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\p21sr4y06u.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -7485,7 +7485,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\p6g9u71q0h.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -7504,7 +7504,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\p82givp2f4.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -7523,7 +7523,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\pa6kfym222.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -7542,7 +7542,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\pd9o3zmi20.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -7561,7 +7561,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\pkx457m3u9.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -7580,7 +7580,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\prflbe5k6t.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -7599,7 +7599,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\psk5zycip8.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -7618,7 +7618,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\pzzjrf86os.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -7637,7 +7637,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\q1pw51thdy.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -7656,7 +7656,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\qd5ntu3sip.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -7675,7 +7675,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\qrg4o7yvmd.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -7694,7 +7694,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\r7se5nh58w.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -7713,7 +7713,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\rd87m5yjae.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -7732,7 +7732,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\rdeukclouf.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -7751,7 +7751,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\rdnmbfavzr.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -7770,7 +7770,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\ris3lu956l.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -7789,7 +7789,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\s26ltcio71.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -7808,7 +7808,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\sdzz47z3md.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -7826,27 +7826,8 @@
       "OriginalItemSpec": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat"
     },
     {
-      "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\shiwhtgroz.gz",
-      "SourceId": "personal-web",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/personal-web.wasm.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\personal-web.wasm",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\personal-web.wasm"
-    },
-    {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\t21c785jiw.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -7865,7 +7846,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\tas0w222qb.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -7884,7 +7865,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\tj831f7w2x.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -7903,7 +7884,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\tlvpdxtcb0.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -7922,7 +7903,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\tvmfw7g23r.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -7941,7 +7922,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\twecvp2fz6.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -7960,7 +7941,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\ugu9n1o70w.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -7979,7 +7960,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\uley7ckp4s.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -7998,7 +7979,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\ur69liv4bo.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -8017,7 +7998,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\uthkkjrcqj.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -8036,7 +8017,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\uvd8br1o9i.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -8055,7 +8036,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\uwelinwomn.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -8074,7 +8055,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\vl9flvkzo5.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -8093,7 +8074,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\vvp40n48wv.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -8112,7 +8093,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\w9azuq5318.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -8131,7 +8112,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\wpaldue9o2.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -8150,7 +8131,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\wrc0iyeg2o.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -8169,7 +8150,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\wyz4xethio.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -8187,8 +8168,27 @@
       "OriginalItemSpec": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Net.NameResolution.wasm"
     },
     {
+      "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\x0ybfba4l1.gz",
+      "SourceId": "PersonalWeb",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/PersonalWeb.pdb.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\PersonalWeb.pdb",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\PersonalWeb.pdb"
+    },
+    {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\x7sqc741cf.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -8207,7 +8207,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\xe29v1mfi3.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -8226,7 +8226,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\xekhslk8ee.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -8245,7 +8245,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\xw7auqiiqh.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -8264,7 +8264,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\y4rlki4zz1.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -8283,7 +8283,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\y5p9ro6zl1.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -8302,7 +8302,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\yohua8jknq.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -8321,7 +8321,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\yq9cc5czwc.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -8340,7 +8340,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\z1ffe3zwl1.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -8359,7 +8359,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\z5ufuibrou.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -8378,7 +8378,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\z6lv7a71ft.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -8397,7 +8397,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\zfhv6wtd5q.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -8416,7 +8416,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\zgya77p1q5.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -8435,7 +8435,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\zipx4it8dv.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -8454,7 +8454,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\zj8njicomo.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -8473,7 +8473,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\zjazvyx9db.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -8492,7 +8492,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\compressed\\zww3ws1c6c.gz",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
@@ -8510,12 +8510,12 @@
       "OriginalItemSpec": "D:\\Proyectos\\personal-web\\personal-web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Resources.Reader.wasm"
     },
     {
-      "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\personal-web.styles.css",
-      "SourceId": "personal-web",
+      "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\PersonalWeb.styles.css",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "/",
-      "RelativePath": "personal-web.styles.css",
+      "RelativePath": "PersonalWeb.styles.css",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Primary",
@@ -8526,15 +8526,15 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\personal-web.styles.css"
+      "OriginalItemSpec": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\PersonalWeb.styles.css"
     },
     {
-      "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\personal-web.bundle.scp.css",
-      "SourceId": "personal-web",
+      "Identity": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\PersonalWeb.bundle.scp.css",
+      "SourceId": "PersonalWeb",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "/",
-      "RelativePath": "personal-web.bundle.scp.css",
+      "RelativePath": "PersonalWeb.bundle.scp.css",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Primary",
@@ -8545,11 +8545,11 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\personal-web.bundle.scp.css"
+      "OriginalItemSpec": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\PersonalWeb.bundle.scp.css"
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\wwwroot\\css\\app.css",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\wwwroot\\",
       "BasePath": "/",
@@ -8568,7 +8568,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\wwwroot\\",
       "BasePath": "/",
@@ -8587,7 +8587,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\wwwroot\\",
       "BasePath": "/",
@@ -8606,7 +8606,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\wwwroot\\favicon.png",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\wwwroot\\",
       "BasePath": "/",
@@ -8625,7 +8625,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\wwwroot\\icon-192.png",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\wwwroot\\",
       "BasePath": "/",
@@ -8644,7 +8644,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\wwwroot\\index.html",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\wwwroot\\",
       "BasePath": "/",
@@ -8663,7 +8663,7 @@
     },
     {
       "Identity": "D:\\Proyectos\\personal-web\\personal-web\\wwwroot\\sample-data\\weather.json",
-      "SourceId": "personal-web",
+      "SourceId": "PersonalWeb",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Proyectos\\personal-web\\personal-web\\wwwroot\\",
       "BasePath": "/",

@@ -9,8 +9,8 @@
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
     },
     {
-      "Id": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\personal-web.styles.css",
-      "PackagePath": "staticwebassets\\personal-web.styles.css"
+      "Id": "D:\\Proyectos\\personal-web\\personal-web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\PersonalWeb.styles.css",
+      "PackagePath": "staticwebassets\\PersonalWeb.styles.css"
     },
     {
       "Id": "D:\\Proyectos\\personal-web\\personal-web\\wwwroot\\css\\app.css",
@@ -41,20 +41,20 @@
       "PackagePath": "staticwebassets\\sample-data\\weather.json"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.personal-web.props",
-      "PackagePath": "build\\personal-web.props"
-    },
-    {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.personal-web.props",
-      "PackagePath": "buildMultiTargeting\\personal-web.props"
-    },
-    {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.personal-web.props",
-      "PackagePath": "buildTransitive\\personal-web.props"
-    },
-    {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.personal-web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.PersonalWeb.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.PersonalWeb.props",
+      "PackagePath": "build\\PersonalWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.PersonalWeb.props",
+      "PackagePath": "buildMultiTargeting\\PersonalWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.PersonalWeb.props",
+      "PackagePath": "buildTransitive\\PersonalWeb.props"
     }
   ],
   "ElementsToRemove": []

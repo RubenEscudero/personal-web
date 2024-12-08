@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("personal-web")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("PersonalWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f43d4ff50ff894b299013f83a095349cc24e3fae")]
-[assembly: System.Reflection.AssemblyProductAttribute("personal-web")]
-[assembly: System.Reflection.AssemblyTitleAttribute("personal-web")]
+[assembly: System.Reflection.AssemblyProductAttribute("PersonalWeb")]
+[assembly: System.Reflection.AssemblyTitleAttribute("PersonalWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.

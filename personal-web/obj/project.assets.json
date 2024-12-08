@@ -2315,9 +2315,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Proyectos\\personal-web\\personal-web\\personal-web.csproj",
-      "projectName": "personal-web",
-      "projectPath": "D:\\Proyectos\\personal-web\\personal-web\\personal-web.csproj",
+      "projectUniqueName": "D:\\Proyectos\\personal-web\\personal-web\\PersonalWeb.csproj",
+      "projectName": "PersonalWeb",
+      "projectPath": "D:\\Proyectos\\personal-web\\personal-web\\PersonalWeb.csproj",
       "packagesPath": "C:\\Users\\Rubén\\.nuget\\packages\\",
       "outputPath": "D:\\Proyectos\\personal-web\\personal-web\\obj\\",
       "projectStyle": "PackageReference",
