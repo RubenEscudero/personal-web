@@ -1029,3 +1029,14 @@ D:\Proyectos\personal-web\personal-web\obj\Debug\net8.0\personal-web.dll
 D:\Proyectos\personal-web\personal-web\obj\Debug\net8.0\refint\personal-web.dll
 D:\Proyectos\personal-web\personal-web\obj\Debug\net8.0\personal-web.pdb
 D:\Proyectos\personal-web\personal-web\obj\Debug\net8.0\ref\personal-web.dll
+D:\Proyectos\personal-web\personal-web\bin\Debug\net8.0\wwwroot\_framework\Radzen.Blazor.wasm
+D:\Proyectos\personal-web\personal-web\bin\Debug\net8.0\wwwroot\_framework\System.Linq.Dynamic.Core.wasm
+D:\Proyectos\personal-web\personal-web\bin\Debug\net8.0\wwwroot\_framework\System.Linq.Dynamic.Core.wasm.gz
+D:\Proyectos\personal-web\personal-web\bin\Debug\net8.0\wwwroot\_framework\Radzen.Blazor.wasm.gz
+D:\Proyectos\personal-web\personal-web\bin\Debug\net8.0\Radzen.Blazor.dll
+D:\Proyectos\personal-web\personal-web\bin\Debug\net8.0\System.Linq.Dynamic.Core.dll
+D:\Proyectos\personal-web\personal-web\obj\Debug\net8.0\personal-web.sourcelink.json
+D:\Proyectos\personal-web\personal-web\obj\Debug\net8.0\webcil\Radzen.Blazor.wasm
+D:\Proyectos\personal-web\personal-web\obj\Debug\net8.0\webcil\System.Linq.Dynamic.Core.wasm
+D:\Proyectos\personal-web\personal-web\obj\Debug\net8.0\compressed\zfhv6wtd5q.gz
+D:\Proyectos\personal-web\personal-web\obj\Debug\net8.0\compressed\orulug23nc.gz
