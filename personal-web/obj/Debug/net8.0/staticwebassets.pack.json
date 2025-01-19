@@ -37,6 +37,18 @@
       "PackagePath": "staticwebassets\\index.html"
     },
     {
+      "Id": "D:\\Proyectos\\personal-web\\personal-web\\wwwroot\\js\\app.js",
+      "PackagePath": "staticwebassets\\js\\app.js"
+    },
+    {
+      "Id": "D:\\Proyectos\\personal-web\\personal-web\\wwwroot\\ruben-web-icon-short.png",
+      "PackagePath": "staticwebassets\\ruben-web-icon-short.png"
+    },
+    {
+      "Id": "D:\\Proyectos\\personal-web\\personal-web\\wwwroot\\ruben-web-icon.png",
+      "PackagePath": "staticwebassets\\ruben-web-icon.png"
+    },
+    {
       "Id": "D:\\Proyectos\\personal-web\\personal-web\\wwwroot\\sample-data\\weather.json",
       "PackagePath": "staticwebassets\\sample-data\\weather.json"
     },
