@@ -44,7 +44,6 @@ D:\Proyectos\personal-web\personal-web\bin\Debug\net8.0\wwwroot\_framework\Micro
 D:\Proyectos\personal-web\personal-web\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Win32.Registry.wasm
 D:\Proyectos\personal-web\personal-web\bin\Debug\net8.0\wwwroot\_framework\mscorlib.wasm
 D:\Proyectos\personal-web\personal-web\bin\Debug\net8.0\wwwroot\_framework\netstandard.wasm
-D:\Proyectos\personal-web\personal-web\bin\Debug\net8.0\wwwroot\_framework\Radzen.Blazor.wasm
 D:\Proyectos\personal-web\personal-web\bin\Debug\net8.0\wwwroot\_framework\System.AppContext.wasm
 D:\Proyectos\personal-web\personal-web\bin\Debug\net8.0\wwwroot\_framework\System.Buffers.wasm
 D:\Proyectos\personal-web\personal-web\bin\Debug\net8.0\wwwroot\_framework\System.Collections.Concurrent.wasm
@@ -98,7 +97,6 @@ D:\Proyectos\personal-web\personal-web\bin\Debug\net8.0\wwwroot\_framework\Syste
 D:\Proyectos\personal-web\personal-web\bin\Debug\net8.0\wwwroot\_framework\System.IO.Pipes.wasm
 D:\Proyectos\personal-web\personal-web\bin\Debug\net8.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.wasm
 D:\Proyectos\personal-web\personal-web\bin\Debug\net8.0\wwwroot\_framework\System.IO.wasm
-D:\Proyectos\personal-web\personal-web\bin\Debug\net8.0\wwwroot\_framework\System.Linq.Dynamic.Core.wasm
 D:\Proyectos\personal-web\personal-web\bin\Debug\net8.0\wwwroot\_framework\System.Linq.Expressions.wasm
 D:\Proyectos\personal-web\personal-web\bin\Debug\net8.0\wwwroot\_framework\System.Linq.Parallel.wasm
 D:\Proyectos\personal-web\personal-web\bin\Debug\net8.0\wwwroot\_framework\System.Linq.Queryable.wasm
@@ -354,7 +352,6 @@ D:\Proyectos\personal-web\personal-web\bin\Debug\net8.0\wwwroot\_framework\Syste
 D:\Proyectos\personal-web\personal-web\bin\Debug\net8.0\wwwroot\_framework\System.Diagnostics.Process.wasm.gz
 D:\Proyectos\personal-web\personal-web\bin\Debug\net8.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.wasm.gz
 D:\Proyectos\personal-web\personal-web\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Options.wasm.gz
-D:\Proyectos\personal-web\personal-web\bin\Debug\net8.0\wwwroot\_framework\System.Linq.Dynamic.Core.wasm.gz
 D:\Proyectos\personal-web\personal-web\bin\Debug\net8.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.wasm.gz
 D:\Proyectos\personal-web\personal-web\bin\Debug\net8.0\wwwroot\_framework\System.Private.Uri.wasm.gz
 D:\Proyectos\personal-web\personal-web\bin\Debug\net8.0\wwwroot\_framework\System.Security.Cryptography.Cng.wasm.gz
@@ -405,7 +402,6 @@ D:\Proyectos\personal-web\personal-web\bin\Debug\net8.0\wwwroot\_framework\dotne
 D:\Proyectos\personal-web\personal-web\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.wasm.gz
 D:\Proyectos\personal-web\personal-web\bin\Debug\net8.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.wasm.gz
 D:\Proyectos\personal-web\personal-web\bin\Debug\net8.0\wwwroot\_framework\System.Core.wasm.gz
-D:\Proyectos\personal-web\personal-web\bin\Debug\net8.0\wwwroot\_framework\Radzen.Blazor.wasm.gz
 D:\Proyectos\personal-web\personal-web\bin\Debug\net8.0\wwwroot\_framework\System.Private.Xml.Linq.wasm.gz
 D:\Proyectos\personal-web\personal-web\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Win32.Registry.wasm.gz
 D:\Proyectos\personal-web\personal-web\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.InteropServices.JavaScript.wasm.gz
@@ -442,9 +438,7 @@ D:\Proyectos\personal-web\personal-web\bin\Debug\net8.0\Microsoft.Extensions.Opt
 D:\Proyectos\personal-web\personal-web\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
 D:\Proyectos\personal-web\personal-web\bin\Debug\net8.0\Microsoft.JSInterop.dll
 D:\Proyectos\personal-web\personal-web\bin\Debug\net8.0\Microsoft.JSInterop.WebAssembly.dll
-D:\Proyectos\personal-web\personal-web\bin\Debug\net8.0\Radzen.Blazor.dll
 D:\Proyectos\personal-web\personal-web\bin\Debug\net8.0\System.IO.Pipelines.dll
-D:\Proyectos\personal-web\personal-web\bin\Debug\net8.0\System.Linq.Dynamic.Core.dll
 D:\Proyectos\personal-web\personal-web\bin\Debug\net8.0\Microsoft.CSharp.dll
 D:\Proyectos\personal-web\personal-web\bin\Debug\net8.0\Microsoft.VisualBasic.Core.dll
 D:\Proyectos\personal-web\personal-web\bin\Debug\net8.0\Microsoft.VisualBasic.dll
@@ -644,9 +638,7 @@ D:\Proyectos\personal-web\personal-web\obj\Debug\net8.0\webcil\Microsoft.Extensi
 D:\Proyectos\personal-web\personal-web\obj\Debug\net8.0\webcil\Microsoft.Extensions.Primitives.wasm
 D:\Proyectos\personal-web\personal-web\obj\Debug\net8.0\webcil\Microsoft.JSInterop.wasm
 D:\Proyectos\personal-web\personal-web\obj\Debug\net8.0\webcil\Microsoft.JSInterop.WebAssembly.wasm
-D:\Proyectos\personal-web\personal-web\obj\Debug\net8.0\webcil\Radzen.Blazor.wasm
 D:\Proyectos\personal-web\personal-web\obj\Debug\net8.0\webcil\System.IO.Pipelines.wasm
-D:\Proyectos\personal-web\personal-web\obj\Debug\net8.0\webcil\System.Linq.Dynamic.Core.wasm
 D:\Proyectos\personal-web\personal-web\obj\Debug\net8.0\webcil\Microsoft.CSharp.wasm
 D:\Proyectos\personal-web\personal-web\obj\Debug\net8.0\webcil\Microsoft.VisualBasic.Core.wasm
 D:\Proyectos\personal-web\personal-web\obj\Debug\net8.0\webcil\Microsoft.VisualBasic.wasm
@@ -829,7 +821,6 @@ D:\Proyectos\personal-web\personal-web\obj\Debug\net8.0\scopedcss\Layout\MainLay
 D:\Proyectos\personal-web\personal-web\obj\Debug\net8.0\scopedcss\Layout\NavMenu.razor.rz.scp.css
 D:\Proyectos\personal-web\personal-web\obj\Debug\net8.0\scopedcss\bundle\PersonalWeb.styles.css
 D:\Proyectos\personal-web\personal-web\obj\Debug\net8.0\scopedcss\projectbundle\PersonalWeb.bundle.scp.css
-D:\Proyectos\personal-web\personal-web\obj\Debug\net8.0\compressed\koo5pam2ii.gz
 D:\Proyectos\personal-web\personal-web\obj\Debug\net8.0\compressed\2g1wf0asm2.gz
 D:\Proyectos\personal-web\personal-web\obj\Debug\net8.0\compressed\dpcqo6eiuu.gz
 D:\Proyectos\personal-web\personal-web\obj\Debug\net8.0\compressed\iver16l1y3.gz
@@ -852,9 +843,7 @@ D:\Proyectos\personal-web\personal-web\obj\Debug\net8.0\compressed\onxwqdvqbo.gz
 D:\Proyectos\personal-web\personal-web\obj\Debug\net8.0\compressed\iay3ipp4ao.gz
 D:\Proyectos\personal-web\personal-web\obj\Debug\net8.0\compressed\1db4z3uz4b.gz
 D:\Proyectos\personal-web\personal-web\obj\Debug\net8.0\compressed\3vxq82gpb5.gz
-D:\Proyectos\personal-web\personal-web\obj\Debug\net8.0\compressed\zfhv6wtd5q.gz
 D:\Proyectos\personal-web\personal-web\obj\Debug\net8.0\compressed\82f05izoxj.gz
-D:\Proyectos\personal-web\personal-web\obj\Debug\net8.0\compressed\orulug23nc.gz
 D:\Proyectos\personal-web\personal-web\obj\Debug\net8.0\compressed\tvmfw7g23r.gz
 D:\Proyectos\personal-web\personal-web\obj\Debug\net8.0\compressed\pa6kfym222.gz
 D:\Proyectos\personal-web\personal-web\obj\Debug\net8.0\compressed\r7se5nh58w.gz
@@ -1040,3 +1029,4 @@ D:\Proyectos\personal-web\personal-web\obj\Debug\net8.0\PersonalWeb.dll
 D:\Proyectos\personal-web\personal-web\obj\Debug\net8.0\refint\PersonalWeb.dll
 D:\Proyectos\personal-web\personal-web\obj\Debug\net8.0\PersonalWeb.pdb
 D:\Proyectos\personal-web\personal-web\obj\Debug\net8.0\ref\PersonalWeb.dll
+D:\Proyectos\personal-web\personal-web\obj\Debug\net8.0\compressed\7jt6xz8xdd.gz

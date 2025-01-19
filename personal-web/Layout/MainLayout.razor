@@ -1,32 +1,17 @@
 ﻿@inherits LayoutComponentBase
-@inject ThemeService ThemeService
-<div class="page">
+
+<div>
     <div class="sidebar">
         <NavMenu />
     </div>
 
     <main>
-        <!--
-        <RadzenMenuItem Text="More">
-            <RadzenMenuItem Text="Light mode" @onclick='() => ChangingTheme("software")'></RadzenMenuItem>
-            <RadzenMenuItem Text="Dark mode" @onclick='() => ChangingTheme("software-dark")'></RadzenMenuItem>
-        </RadzenMenuItem>
-        -->
-        <article class="content px-4">
+        <article class="">
             @Body
         </article>
     </main>
 </div>
 
-<HeadContent>
-    <RadzenTheme Theme="software-dark" />
-</HeadContent>
-
-<RadzenComponents />
-
 @code {
-    void ChangingTheme(string value)
-    {
-        ThemeService.SetTheme(value);
-    }
+    
 }

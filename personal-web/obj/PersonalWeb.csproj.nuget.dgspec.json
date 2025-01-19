@@ -53,12 +53,12 @@
           "dependencies": {
             "Microsoft.AspNetCore.Components.WebAssembly": {
               "target": "Package",
-              "version": "[8.0.5, )"
+              "version": "[8.0.12, )"
             },
             "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.5, )"
+              "version": "[8.0.12, )"
             },
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
@@ -71,10 +71,6 @@
               "target": "Package",
               "version": "[8.0.5, )",
               "autoReferenced": true
-            },
-            "Radzen.Blazor": {
-              "target": "Package",
-              "version": "[5.6.12, )"
             }
           },
           "imports": [
